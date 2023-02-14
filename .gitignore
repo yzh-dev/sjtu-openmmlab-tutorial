@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Idea配置部分
+/.idea
+
+# 数据部分
+data/
+
 # C extensions
 *.so
 
